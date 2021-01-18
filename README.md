@@ -1,6 +1,3 @@
-Date: 1/18/2021
-
-
 ## Getting Started
 
 Run 'python3 repo_fetch.py'
